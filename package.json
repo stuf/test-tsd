@@ -1,0 +1,11 @@
+{
+  "name": "test-tsd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:stuf/test-tsd.git",
+  "author": "Stefan Rimaila <stefan@rimaila.fi>",
+  "license": "MIT",
+  "typescript": {
+    "definition": "index.d.ts"
+  }
+}
